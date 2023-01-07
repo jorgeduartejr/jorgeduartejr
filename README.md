@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Python, Golang and JavaScript
 - 📩 Contact: jorgeduarte@ufrrj.br
-- 🎆 I’m also interested in Data Science, Machine Learning e Data Vizualization
+- 🎆 I’m also interested in Data Science, Machine Learning e Data Visualization
 
 <div align="center">
   <a href="https://github.com/jorgeduartejr">
