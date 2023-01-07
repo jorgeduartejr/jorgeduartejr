@@ -3,8 +3,8 @@
 - 📚 Computer Science Student at UFRRJ (Set 2021 - Present)
 
 - 🌱 I’m currently learning Python, Golang and JavaScript
-- 🤔 I’m looking for help with Data Science
 - 📩 Contact: jorgeduarte@ufrrj.br
+- 🎆 I’m also interested in Data Science, Machine Learning e Data Vizualization
 
 <div align="center">
   <a href="https://github.com/jorgeduartejr">
@@ -12,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeduartejr&layout=compact&langs_count=8&theme=dracula&include_all_commits=true&count_private=true&custom_title=My%20Projects"/>
 </div>
 
-<div style="display: inline_block" align="left"> <br>
+<div style="display: inline_block" <br>
   <img align="center" alt="Jorgepython" height="30" width="40"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   
