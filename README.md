@@ -22,7 +22,7 @@
 
 ### 🧐 About Me
 
-- 🔭 I’m currently working on improving my **Golang** skills and understanding **Cloud Native** patterns.
+- 🔭 I’m currently working on improving my **Golang** skills and applying **Cloud Native** patterns.
 - 🌱 I’m currently learning **SRE principles**, **System Design**, and **Cloud Infrastructure**.
 - 🧠 I’m also interested in **Data Science**, **Machine Learning** and the **MLOps** lifecycle.
 - 🎓 **Computer Science** at Universidade Federal Rural do Rio de Janeiro (UFRRJ).
